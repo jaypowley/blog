@@ -1,7 +1,0 @@
-@{
-    Layout = "blogpost";
-    Title = "Recursion";
-    AddedDate = "2018-10-24T08:31:16";
-    Tags = "";
-    Description = "";
-}

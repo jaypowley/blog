@@ -1,11 +1,11 @@
-@{
- Layout = "beerpost";
- Title = "Chocolate Milk Stout";
- AddedDate = "2018-12-08T12:00:00";
- Tags = "Milk Stout, Stout, Tavour";
- Description = "";
- }
-
+@{ 
+ Layout = "beerpost"; 
+ Title = "Chocolate Milk Stout"; 
+ AddedDate = "2018-12-08T12:00:00"; 
+ Tags = "Milk Stout, Stout, Tavour"; 
+ Description = ""; 
+ } 
+ 
 
 ## Chocolate Milk Stout by 4 Hands Brewing Co.
 

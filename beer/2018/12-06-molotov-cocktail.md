@@ -1,11 +1,11 @@
-@{
- Layout = "beerpost";
- Title = "Molotov Cocktail";
- AddedDate = "2018-12-06T12:00:00";
- Tags = "TIPA, IPA";
- Description = "";
- }
-
+@{ 
+ Layout = "beerpost"; 
+ Title = "Molotov Cocktail"; 
+ AddedDate = "2018-12-06T12:00:00"; 
+ Tags = "TIPA, IPA"; 
+ Description = ""; 
+ } 
+ 
 
 ## Molotov Cocktail by Evil Twin Brewing
 

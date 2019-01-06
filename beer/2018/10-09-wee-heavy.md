@@ -1,8 +1,8 @@
 @{
-    Layout = "post";
+    Layout = "beerpost";
     Title = "Wee Heavy";
     AddedDate = "2018-10-09T09:24:20";
-    Tags = "Scotch Ale";
+    Tags = "Scotch Ale, Tavour";
     Description = "";
 }
 

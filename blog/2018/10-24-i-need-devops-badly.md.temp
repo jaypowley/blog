@@ -1,8 +1,0 @@
-@{
-    Layout = "blogpost";
-    Title = "I need devops. Badly.";
-    AddedDate = "2018-10-24T08:30:57";
-    Tags = "";
-    Description = "";
-}
-

@@ -1,5 +1,5 @@
 @{
-    Layout = "post";
+    Layout = "beerpost";
     Title = "Podge Belgian Imperial Stout";
     AddedDate = "2018-10-09T07:36:15";
     Tags = "Stout,Belgian";

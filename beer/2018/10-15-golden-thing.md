@@ -19,5 +19,3 @@ Via [untappd][untappd-url].
 [untappd-url]: <https://untappd.com/b/troegs-independent-brewing-golden-thing/2861106>
 [beer-pic]: https://jasonpowley.com/assets/img/2018-10-15-golden-thing.jpeg "Golden Thing by Troegs Independent Brewing"
 
-
-

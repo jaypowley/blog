@@ -1,11 +1,11 @@
-@{
- Layout = "beerpost";
- Title = "Double Dunk";
- AddedDate = "2018-12-08T12:00:00";
- Tags = "Stout, Tavour";
- Description = "";
- }
-
+@{ 
+ Layout = "beerpost"; 
+ Title = "Double Dunk"; 
+ AddedDate = "2018-12-08T12:00:00"; 
+ Tags = "Stout, Tavour"; 
+ Description = ""; 
+ } 
+ 
 
 ## Double Dunk by Prairie Artisan Ales
 

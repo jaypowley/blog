@@ -1,11 +1,11 @@
-@{
- Layout = "beerpost";
- Title = "Obbie's Grand Cru";
- AddedDate = "2018-12-03T12:00:00";
- Tags = "Belgian Strong Golden Ale, PA Craftbrew";
- Description = "";
- }
-
+@{ 
+ Layout = "beerpost"; 
+ Title = "Obbie's Grand Cru"; 
+ AddedDate = "2018-12-03T12:00:00"; 
+ Tags = "Belgian Strong Golden Ale, PA Craftbrew"; 
+ Description = ""; 
+ } 
+ 
 
 ## Obbie's Grand Cru by Appalachian Brewing Company
 

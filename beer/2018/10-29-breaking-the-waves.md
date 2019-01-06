@@ -2,7 +2,7 @@
     Layout = "beerpost";
     Title = "Breaking the Waves";
     AddedDate = "2018-10-29T10:31:52";
-    Tags = "DIPA, IPA";
+    Tags = "DIPA, IPA, Tavour";
     Description = "";
 }
 
