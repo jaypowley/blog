@@ -2,7 +2,7 @@
  Layout = "beerpost"; 
  Title = "Barrel-Aged Abbey Ale Dubbel"; 
  AddedDate = "2018-12-27T12:00:00"; 
- Tags = "Belgian Dubbel"; 
+ Tags = "Belgian Dubbel, BBA"; 
  Description = ""; 
  } 
  

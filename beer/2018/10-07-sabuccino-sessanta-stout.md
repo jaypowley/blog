@@ -2,7 +2,7 @@
     Layout = "beerpost";
     Title = "Sabuccino Sessanta Stout";
     AddedDate = "2018-10-07T08:13:58";
-    Tags = "Stout,PA Craftbrew";
+    Tags = "Stout, PA Craftbrew";
     Description = "";
 }
 

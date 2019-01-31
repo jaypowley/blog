@@ -2,7 +2,7 @@
     Layout = "beerpost";
     Title = "Bourbon Barrel Aged Dark Star";
     AddedDate = "2018-11-08T01:45:26";
-    Tags = "Oatmeal Stout, Tavour";
+    Tags = "Oatmeal Stout, BBA, Tavour";
     Description = "";
 }
 
@@ -14,7 +14,8 @@
 
 > Imperial Oatmeal Stout Aged in Bourbon Barrels
 This year’s release is a blend of 24, 18, 12, and 8-month Bourbon Barrel-Aged Dark Star in 7-12-year old Kentucky bourbon barrels. The roasted and chocolate malts complement the smooth oats to bring you a stout delight wrapped in the gentle embrace of bourbon barrel-aged warmth. A touch of sweetness dances in balance with the hops to finish with a wave, and then she’s gone.
-2-Row Pale, Roast Barley, Crystal-60, Chocolate, and Carafa-2 malts with Flaked Oats and Columbus, Willamette, and Cascade hops.
+>
+>2-Row Pale, Roast Barley, Crystal-60, Chocolate, and Carafa-2 malts with Flaked Oats and Columbus, Willamette, and Cascade hops.
 
 Via [untappd][untappd-url].
 

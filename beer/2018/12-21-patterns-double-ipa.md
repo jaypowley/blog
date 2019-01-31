@@ -13,7 +13,7 @@
 
 ### About Patterns Double IPA
 
-> Scotch ale aged in scotch whiskey barrels.
+> The second in the Patterns series of IPAs, brewed with Galaxy and Motueka and double dry hopped with the same.
 
 Via [untappd][untappd-url].
 

@@ -2,7 +2,7 @@
  Layout = "beerpost"; 
  Title = "Canadian Breakfast Stout (CBS)"; 
  AddedDate = "2018-11-29T12:00:00"; 
- Tags = "Stout"; 
+ Tags = "Stout, BBA"; 
  Description = ""; 
  } 
  

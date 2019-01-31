@@ -2,7 +2,7 @@
  Layout = "beerpost"; 
  Title = "Curly Wolf - 2018 Maple Vanilla Bourbon Barrel Aged Imperial Stout"; 
  AddedDate = "2019-01-05T12:00:00"; 
- Tags = "Stout, Tavour"; 
+ Tags = "Stout, BBA, Tavour"; 
  Description = ""; 
  } 
  

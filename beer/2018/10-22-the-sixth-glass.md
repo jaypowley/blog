@@ -2,7 +2,7 @@
     Layout = "beerpost";
     Title = "The Sixth Glass";
     AddedDate = "2018-10-22T09:31:57";
-    Tags = "Belgian Quad";
+    Tags = "Belgian Quad, Tavour";
     Description = "";
 }
 
@@ -12,7 +12,7 @@
 
 ### About The Sixth Glass
 
-> ”Do you know what dwells in a glass?” asks Ole, in Hans Christian Andersen's The Watchman of the Tower. Better known for stories such as The Little Mermaid, Andersen wrote this short, cautionary tale for a somewhat older audience. Our quadrupel ale, also meant for the mature connoisseur, is a deep and mysterious libation, dark auburn and full-bodied, its sweetness deceptive. As Ole describes the glasses in turn, their contents become more ominous until, in the sixth glass... 
+> "Do you know what dwells in a glass?" asks Ole, in Hans Christian Andersen's The Watchman of the Tower. Better known for stories such as The Little Mermaid, Andersen wrote this short, cautionary tale for a somewhat older audience. Our quadrupel ale, also meant for the mature connoisseur, is a deep and mysterious libation, dark auburn and full-bodied, its sweetness deceptive. As Ole describes the glasses in turn, their contents become more ominous until, in the sixth glass... 
 
 
 Via [untappd][untappd-url].

@@ -13,7 +13,7 @@
 ### About Noa Pecan Mud Cake Stout
 
 > When I was 12 I dreamed of becoming a pastry chef. Call this a creative outlet.
-<br/>
+>
 >Thick, rich and excessively decadent, this beer aims to bring back childhood memories.
 
 Via [untappd][untappd-url].

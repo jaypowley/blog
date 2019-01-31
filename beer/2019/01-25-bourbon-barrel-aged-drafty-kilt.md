@@ -14,7 +14,7 @@
 ### About Bourbon Barrel-Aged Drafty Kilt
 
 > What do Scotland and the American South have in common? An appreciation for good booze. But that doesn’t mean they always get along. We put our award-winning Drafty Kilt Scotch Ale in Kentucky bourbon barrels and let them duke it out in the cellar. Who won? You did. Oh, also we did. Again. A GABF Gold Meal. No big deal.
-
+>
 > The chocolate, caramel, and roasted malts in Drafty Kilt complement the charred oak and vanilla notes in the bourbon barrels quite well. Notice we didn’t say "“compliment." Scotch and Bourbon still don’t send each other Christmas cards.
 
 Via [untappd][untappd-url].

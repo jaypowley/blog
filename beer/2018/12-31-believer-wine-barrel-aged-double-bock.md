@@ -2,7 +2,7 @@
  Layout = "beerpost"; 
  Title = "Believer Wine Barrel Aged Double Bock"; 
  AddedDate = "2018-12-31T12:00:00"; 
- Tags = "Doppelbock"; 
+ Tags = "Doppelbock, RWBA"; 
  Description = ""; 
  } 
  

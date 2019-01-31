@@ -2,7 +2,7 @@
  Layout = "beerpost"; 
  Title = "Bourbon Barrel Aged Winter Warmer"; 
  AddedDate = "2018-12-30T12:00:00"; 
- Tags = "Winter Warmer, Tavour"; 
+ Tags = "Winter Warmer, BBA, Tavour"; 
  Description = ""; 
  } 
  

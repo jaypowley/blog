@@ -2,7 +2,7 @@
  Layout = "beerpost"; 
  Title = "Barrel-aged Giant Made of Shadows (2018)"; 
  AddedDate = "2018-11-28T12:00:00"; 
- Tags = "Belgian Strong Dark Ale, Tavour"; 
+ Tags = "Belgian Strong Dark Ale, BBA, Tavour"; 
  Description = ""; 
  } 
  

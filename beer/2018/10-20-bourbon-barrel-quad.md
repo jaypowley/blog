@@ -2,7 +2,7 @@
     Layout = "beerpost";
     Title = "Bourbon Barrel Quad";
     AddedDate = "2018-10-20T07:36:48";
-    Tags = "Belgian Quad";
+    Tags = "Belgian Quad, BBA, Tavour";
     Description = "";
 }
 

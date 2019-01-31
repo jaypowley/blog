@@ -2,7 +2,7 @@
     Layout = "beerpost";
     Title = "Bourbon Barrel Aged Imperial Pumpkin Porter";
     AddedDate = "2018-11-07T01:45:15";
-    Tags = "Porter, Tavour";
+    Tags = "Porter, BBA, Tavour";
     Description = "";
 }
 

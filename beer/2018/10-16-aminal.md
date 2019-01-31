@@ -2,7 +2,7 @@
     Layout = "beerpost";
     Title = "Aminal";
     AddedDate = "2018-10-16T07:26:13";
-    Tags = "Bourbon Barrel-Aged, Barleywine, Tavour";
+    Tags = "BBA, Barleywine, Tavour";
     Description = "";
 }
 

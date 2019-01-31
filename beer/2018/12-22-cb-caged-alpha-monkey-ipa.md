@@ -14,7 +14,8 @@
 ### About CB Caged Alpha Monkey IPA
 
 > The IPA for everyone!
-What's more fun than a barrel full of Monkeys? A Caged Alpha Monkey!! This wonderfully fun beer is truly an IPA for everyone! A skillfully layered malt bill lends a rich orange hue and sturdy backdrop for the pronounced hop forward flavor one would expect from an American IPA. A blend of exotic and seductive hops produces a bouquet of tropical fruit and grapefruit-citrus salad. So what are you waiting for? Uncage the monkey in you!
+>
+>What's more fun than a barrel full of Monkeys? A Caged Alpha Monkey!! This wonderfully fun beer is truly an IPA for everyone! A skillfully layered malt bill lends a rich orange hue and sturdy backdrop for the pronounced hop forward flavor one would expect from an American IPA. A blend of exotic and seductive hops produces a bouquet of tropical fruit and grapefruit-citrus salad. So what are you waiting for? Uncage the monkey in you!
 
 Via [untappd][untappd-url].
 

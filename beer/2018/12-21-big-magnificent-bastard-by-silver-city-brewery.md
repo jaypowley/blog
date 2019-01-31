@@ -2,7 +2,7 @@
  Layout = "beerpost"; 
  Title = "Big Magnificent Bastard by Silver City Brewery"; 
  AddedDate = "2018-12-21T12:00:00"; 
- Tags = "Scotch Ale, Wee Heavy, Tavour"; 
+ Tags = "Scotch Ale, Wee Heavy, WBA, Tavour"; 
  Description = ""; 
  } 
  

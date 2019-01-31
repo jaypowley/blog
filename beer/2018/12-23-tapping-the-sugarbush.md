@@ -2,7 +2,7 @@
  Layout = "beerpost"; 
  Title = "Tapping the Sugarbush"; 
  AddedDate = "2018-12-23T12:00:00"; 
- Tags = "Porter, Tavour"; 
+ Tags = "Porter, BBA, Tavour"; 
  Description = ""; 
  } 
  

@@ -2,7 +2,7 @@
  Layout = "beerpost"; 
  Title = "Bakery"; 
  AddedDate = "2019-01-12T12:00:00"; 
- Tags = "Stout, Tavour"; 
+ Tags = "Stout, BBA, Tavour"; 
  Description = ""; 
  } 
  

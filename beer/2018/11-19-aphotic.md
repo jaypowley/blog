@@ -14,8 +14,8 @@
 ### About Aphotic
 
 > Aphotic [ā-fō’-tic] Greek: without light.
-
-Formally defined as the depths in water beyond which less than one percent of sunlight penetrates. Aphotic is a beer with a very dark side. Just one sip and you will understand the true depths of its darkness as the deep, luxurious layers of malt rich-ness tantalize and tease your taste buds. Cold pressed coffee adds a slight citrusy, earthy flavor with floral aromas. 
+>
+>Formally defined as the depths in water beyond which less than one percent of sunlight penetrates. Aphotic is a beer with a very dark side. Just one sip and you will understand the true depths of its darkness as the deep, luxurious layers of malt rich-ness tantalize and tease your taste buds. Cold pressed coffee adds a slight citrusy, earthy flavor with floral aromas. 
 
 Via [untappd][untappd-url].
 

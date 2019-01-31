@@ -2,7 +2,7 @@
  Layout = "beerpost"; 
  Title = "Bourbon Barrel Aged Epitaph (2018)"; 
  AddedDate = "2018-12-31T12:00:00"; 
- Tags = "Russian Imperial Stout, Stout, Tavour"; 
+ Tags = "Russian Imperial Stout, Stout, BBA, Tavour"; 
  Description = ""; 
  } 
  

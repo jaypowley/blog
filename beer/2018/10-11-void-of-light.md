@@ -2,7 +2,7 @@
     Layout = "beerpost";
     Title = "Void of Light";
     AddedDate = "2018-10-11T06:44:11";
-    Tags = "Foreign Stout";
+    Tags = "Foreign Stout, Tavour";
     Description = "";
 }
 

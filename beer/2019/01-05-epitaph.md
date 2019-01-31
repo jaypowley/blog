@@ -13,7 +13,7 @@
 
 ### About Epitaph
 
-> Buried in this beer are the remains of what started as one of those small batch side projects. Sttong notes of black licorice, vanilla, toffee, and subtle botes of roasted coffee that collide into limitless realms of intricate flavors.
+> Buried in this beer are the remains of what started as one of those small batch side projects. Strong notes of black licorice, vanilla, toffee, and subtle botes of roasted coffee that collide into limitless realms of intricate flavors.
 
 Via [untappd][untappd-url].
 

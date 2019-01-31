@@ -2,7 +2,7 @@
  Layout = "beerpost"; 
  Title = "Etain"; 
  AddedDate = "2018-12-29T12:00:00"; 
- Tags = "Old Ale, Tavour"; 
+ Tags = "Old Ale, BBA, Tavour"; 
  Description = ""; 
  } 
  

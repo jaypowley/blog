@@ -2,7 +2,7 @@
     Layout = "beerpost";
     Title = "Breaking The Waves";
     AddedDate = "2018-10-08T09:14:11";
-    Tags = "IPA";
+    Tags = "IPA, Tavour";
     Description = "";
 }
 

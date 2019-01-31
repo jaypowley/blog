@@ -2,7 +2,7 @@
  Layout = "beerpost"; 
  Title = "Whiskey Barrel Aged Lugene"; 
  AddedDate = "2019-01-09T12:00:00"; 
- Tags = "Stout, Tavour"; 
+ Tags = "Stout, WBA, Tavour"; 
  Description = ""; 
  } 
  
