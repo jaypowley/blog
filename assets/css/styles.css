@@ -317,7 +317,7 @@ h6 {
      text-align: center;
      color: #828282; }
  
-  /* Image subtext/credit */
+/* Image subtext/credit */
  .img-credit { 
    text-align: center;
    width: 100%;
@@ -325,6 +325,27 @@ h6 {
    margin-top: -25px;
    margin-bottom: 10px;
    color: #797979; }
+
+/* post footer */
+.post-author {
+    margin: 50px auto 0;
+}
+.post-author img {
+    float: left;
+    border-radius: 50%;
+    margin: 0 2rem 0 0;
+}
+.post-author:after {
+    content: ".";
+    display: block;
+    height: 0;
+    clear: both;
+    visibility: hidden;
+}
+.author-details > p {
+    padding-top: 15px;
+    font-size: 20px;
+}
 
  .canvas > .container {
    position: relative;
