@@ -2,7 +2,7 @@
  Layout = "beerpost";
  Title = "Kentucky Breakfast Stout (KBS) (2019)";
  AddedDate = "2019-06-21T05:39:41";
- Tags = "Stout, American Imperial Stout";
+ Tags = "Stout, American Imperial Stout, BBA";
  Description = "";
  }
  
