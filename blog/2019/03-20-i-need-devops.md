@@ -21,11 +21,11 @@ Very recently, the nuances of formulating a beer post had reached its tipping po
 3. Resize in Paint.net or script out (to do)
 4. Open cmd prompt
 
-    4a. 
+    4a.
     ```
     cd "C:\Path\To\Source\Of\GitHub\FsBlog\Code"
     ```
-    4b. 
+    4b.
     ```
     fake new beer="Beer Name"
     ```
@@ -43,7 +43,7 @@ Very recently, the nuances of formulating a beer post had reached its tipping po
     8b. Check assets/img, copy any missing images
 9. Open another cmd prompt
 
-    9a. run 
+    9a. run
     ```
     "C:\Program Files\IIS Express\iisexpress.exe" /path:"C:\Path\To\Source\Of\GitHub\FsBlog\Output"
     ```
