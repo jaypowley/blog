@@ -2,7 +2,7 @@
  Layout = "beerpost";
  Title = "Schussboom";
  AddedDate = "2019-07-03T05:18:10";
- Tags = "IPA - American";
+ Tags = "IPA";
  Description = "";
  }
  
