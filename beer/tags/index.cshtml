@@ -12,7 +12,7 @@
     @foreach (var beer in post.Beers)
     {
         <span class="post-meta">@beer.AddedDate.ToString("MMM dd, yyyy")</span>    
-        <a href="~/beer/@beer.Url/index.html">@beer.Title</a><br />
+        <a href="~/beer/@beer.Url/">@beer.Title</a><br />
     } 
     </p>
 } 
