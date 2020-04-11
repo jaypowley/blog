@@ -2,7 +2,7 @@
     Layout = "beerpost";
     Title = "Confused Therapist";
     AddedDate = "2018-10-28T10:16:23";
-    Tags = "Triple IPA, IPA, Tavour";
+    Tags = "TIPA, IPA, Tavour";
     Description = "";
 }
 

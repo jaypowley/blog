@@ -1,5 +1,5 @@
 @{
- Layout = "beerpost";
+ Layout = "blogpost";
  Title = "My New Keyboard";
  AddedDate = "2020-01-14T12:00:00";
  Tags = "General";

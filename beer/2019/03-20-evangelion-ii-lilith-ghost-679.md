@@ -2,7 +2,7 @@
  Layout = "beerpost";
  Title = "Evangelion II: Lilith (Ghost 679)";
  AddedDate = "2019-03-20T07:35:36";
- Tags = "IPA, TIPA. Tavour";
+ Tags = "IPA, TIPA, Tavour";
  Description = "";
  }
  
